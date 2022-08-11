@@ -16,5 +16,8 @@ https://www.zongotoday.com
 
 5. aim - Ecommerce Platform/
 https://www.aim.harakaa.com /
-Not yet done with it
+Not done with it
 
+6. The NGO Project/
+https://thengo.zongotimes.com/
+Not done 
